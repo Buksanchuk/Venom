@@ -1,7 +1,8 @@
 # venom
 ## portfolio
+
 В проекте используются:
--html
--css
--js
--normalize.css
+- html
+- css
+- js
+- normalize.css
